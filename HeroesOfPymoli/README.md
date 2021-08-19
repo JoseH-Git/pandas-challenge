@@ -52,6 +52,8 @@ Male plays more than 5x times than females.
 
 ### Most Popular Items
 
+The most Popular is Final Critic.
+
 1. The 5 most popular items by purchase count are:
 
 ![image](https://user-images.githubusercontent.com/80076539/130153420-f925a813-5d6b-4f25-9192-75861fa5b0ac.png)
@@ -65,5 +67,6 @@ Male plays more than 5x times than females.
   * Purchase Count = 13	
   * Item Price = $4.61
   * Total Purchase Value = $59.99
+
 
 ![image](https://user-images.githubusercontent.com/80076539/130153589-8f127d4d-df79-44d8-bcb3-b0a6e106fab6.png)
