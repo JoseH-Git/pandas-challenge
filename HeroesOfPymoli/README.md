@@ -2,9 +2,8 @@
 
 ## Background
 
-The data dive continues!
+Below you can find a brief analysis for Heroes of Pymoli!
 
-Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
 ### Player Count
 
@@ -21,6 +20,7 @@ Now, it's time to take what you've learned about Python Pandas and apply it to n
 
 ![image](https://user-images.githubusercontent.com/80076539/130152161-c46157fe-d002-4d57-af90-4f006ff7aace.png)
 
+
 ### Gender Demographics
 
 Male plays more than 5x times than females.
@@ -31,11 +31,13 @@ Male plays more than 5x times than females.
 
 ![image](https://user-images.githubusercontent.com/80076539/130152778-0b66d812-101c-4229-8605-93a3fe4c7532.png)
 
+
 ### Purchasing Analysis (Gender)
 
 1. The purchase analysis broken by gender reflects males are the most active as they are the large player gender.
 
 ![image](https://user-images.githubusercontent.com/80076539/130152894-16bc046f-e1c1-4ab3-8b42-d8193775ad79.png)
+
 
 ### Age Demographics
 
@@ -50,6 +52,7 @@ Male plays more than 5x times than females.
 
 ![image](https://user-images.githubusercontent.com/80076539/130153295-afdca891-a56b-4dbc-8642-43363b5e5927.png)
 
+
 ### Most Popular Items
 
 The most Popular is Final Critic.
@@ -57,6 +60,7 @@ The most Popular is Final Critic.
 1. The 5 most popular items by purchase count are:
 
 ![image](https://user-images.githubusercontent.com/80076539/130153420-f925a813-5d6b-4f25-9192-75861fa5b0ac.png)
+
 
 ### Most Profitable Items
 
@@ -67,6 +71,5 @@ The most Popular is Final Critic.
   * Purchase Count = 13	
   * Item Price = $4.61
   * Total Purchase Value = $59.99
-
 
 ![image](https://user-images.githubusercontent.com/80076539/130153589-8f127d4d-df79-44d8-bcb3-b0a6e106fab6.png)
