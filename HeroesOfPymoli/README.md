@@ -1,6 +1,5 @@
 # Heroes of Pymoli Analysis
 
-## Background
 
 Below you can find a brief analysis for Heroes of Pymoli!
 
