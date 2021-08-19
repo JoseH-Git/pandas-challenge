@@ -1,4 +1,4 @@
-# Pandas Homework - Pandas, Pandas, Pandas
+# Heroes of Pymoli Analysis
 
 ## Background
 
@@ -6,38 +6,20 @@ The data dive continues!
 
 Now, it's time to take what you've learned about Python Pandas and apply it to new situations. For this assignment, you'll need to complete **one of two** (not both)  Data Challenges. Once again, which challenge you take on is your choice. Just be sure to give it your all -- as the skills you hone will become powerful tools in your data analytics tool belt.
 
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local git repository, create a directory for the Pandas Challenge you choose. Use folder names corresponding to the challenges: **HeroesOfPymoli** or  **PyCitySchools**.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push the above changes to GitHub or GitLab.
-
-## Option 1: Heroes of Pymoli
-
-![Fantasy](Images/Fantasy.png)
-
-Congratulations! After a lot of hard work in the data munging mines, you've landed a job as Lead Analyst for an independent gaming company. You've been assigned the task of analyzing the data for their most recent fantasy game Heroes of Pymoli.
-
-Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience. As a first task, the company would like you to generate a report that breaks down the game's purchasing data into meaningful insights.
-
-Your final report should include each of the following:
-
 ### Player Count
 
-* Total Number of Players
+1. There are a **total of 576 players**.
+
+![image](https://user-images.githubusercontent.com/80076539/130152107-9e2fa6ec-b1a2-4380-ae80-7f268ff06aa5.png)
 
 ### Purchasing Analysis (Total)
 
-* Number of Unique Items
-* Average Purchase Price
-* Total Number of Purchases
-* Total Revenue
+* Number of Unique Items = 179
+* Average Purchase Price= 3.05
+* Total Number of Purchases = 780
+* Total Revenue = $2,379.77
+
+![image](https://user-images.githubusercontent.com/80076539/130152161-c46157fe-d002-4d57-af90-4f006ff7aace.png)
 
 ### Gender Demographics
 
