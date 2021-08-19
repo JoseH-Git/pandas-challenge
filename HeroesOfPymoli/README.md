@@ -28,7 +28,8 @@ Male plays more than 5x times than females.
 2. Percentage and Count of Female Players = 81
 3. Percentage and Count of Other / Non-Disclosed = 11
 
-![image](https://user-images.githubusercontent.com/80076539/130152778-0b66d812-101c-4229-8605-93a3fe4c7532.png)
+![image](https://user-images.githubusercontent.com/80076539/130154664-2e224392-70c6-4a7e-9e1e-51ccaef3567a.png)
+
 
 
 ### Purchasing Analysis (Gender)
